@@ -1,0 +1,193 @@
+import type { Certificate } from './types.js';
+
+/**
+ * Studies & credentials. Relative `url`/image paths live on antonigg.dev —
+ * resolve them with `absoluteUrl()` when consuming from elsewhere.
+ */
+export const CERTIFICATES: Certificate[] = [
+  {
+    id: 'upc-industrial-engineering',
+    title: 'Grau en Enginyeria en Tecnologies Industrials',
+    institution: 'ETSEIB - UPC',
+    date: '2024',
+    url: '/university/titol.pdf',
+    courseUrl: 'https://etseib.upc.edu/ca/estudis/graus/fitxa-geti',
+    institution_logo: '/institutions/Logo_UPC.png',
+    courseImage: '/university/career.png',
+    institutionUrl: 'https://etseib.upc.edu/ca',
+    type: 'career',
+    hours: 2400,
+    description:
+      'Degree in Industrial Engineering Technologies providing comprehensive knowledge of all industrial technologies with a multidisciplinary and integrative vision of industrial engineering. Training in basic scientific and technological subjects including physics, algebra, calculus, fluid dynamics, industrial machines, robotics, chemistry, Python programming, process automation, and more. Includes planning, direction, and project management skills while addressing social and environmental needs.',
+  },
+  {
+    id: 'barcelona-code-school',
+    title: 'JavaScript Full-Stack Bootcamp',
+    institution: 'Barcelona Code School',
+    date: '2023',
+    url: '/bootcamp/certificate.pdf',
+    courseUrl:
+      'https://barcelonacodeschool.com/barcelona-code-school/javascript-full-stack-bootcamp/',
+    institution_logo: '/institutions/bcs_logo.png',
+    courseImage: '/bootcamp/course.png',
+    institutionUrl: 'https://www.barcelonacodeschool.com/',
+    type: 'bootcamp',
+    hours: 480,
+    description:
+      'Intensive 9-week in-person bootcamp covering full-stack web and mobile development. JavaScript, React, TypeScript, Node.js, Express, MongoDB, React Native, HTML, CSS, Git, and deployment with Linux and nginx. Built multiple projects including web applications and native mobile apps.',
+  },
+  {
+    id: 'ibm-cybersecurity',
+    title: 'IBM Cybersecurity Fundamentals',
+    institution: 'IBM',
+    date: 'July 2023',
+    url: 'https://credentials.edx.org/credentials/7556496087574013a9a85a8289cd492b/',
+    courseUrl:
+      'https://www.edx.org/certificates/professional-certificate/ibm-cybersecurity-fundamentals',
+    institution_logo: '/institutions/IBM_logo.png',
+    courseImage: '/courses/IBM_ciber.png',
+    institutionUrl: 'https://www.ibm.com/',
+    type: 'certificate',
+    hours: 120,
+    description:
+      "Security fundamentals, threat analysis, and risk management from IBM's professional certification. Covered network security, endpoint protection, threat intelligence, and security operations.",
+  },
+  {
+    id: 'harvard-cs50',
+    title: 'CS50: Introduction to Computer Science',
+    institution: 'Harvard University',
+    date: '2023',
+    url: 'https://certificates.cs50.io/64aea628-e4fd-4523-b255-8d1dc85046a0.pdf?',
+    courseUrl: 'https://pll.harvard.edu/course/cs50-introduction-computer-science',
+    institution_logo: '/institutions/Harvard_logo.png',
+    courseImage: '/courses/harvard_cs50.png',
+    institutionUrl: 'https://www.harvard.edu/',
+    type: 'certificate',
+    hours: 100,
+    description:
+      "Fundamental algorithms, data structures, and software engineering principles from Harvard's CS50. Comprehensive introduction to computer science with hands-on projects in C, Python, SQL, HTML, CSS, and JavaScript.",
+  },
+  {
+    id: 'harvard-entrepreneurship',
+    title: 'Entrepreneurship in Emerging Economies',
+    institution: 'Harvard University',
+    date: 'November 2021',
+    url: 'https://courses.edx.org/certificates/feab49353b31402f8bd68d3efc926869',
+    courseUrl: 'https://pll.harvard.edu/course/entrepreneurship-in-emerging-economies',
+    institution_logo: '/institutions/Harvard_logo.png',
+    courseImage: '/courses/harvard_entrepreneurship.png',
+    institutionUrl: 'https://www.harvard.edu/',
+    type: 'certificate',
+    hours: 60,
+    description: 'Strategic entrepreneurship and business development in emerging markets.',
+  },
+  {
+    id: 'mit-adaptive-markets',
+    title: 'Adaptive Markets: Financial Market Dynamics and Human Behavior',
+    institution: 'MIT',
+    date: 'July 2021',
+    url: 'https://courses.edx.org/certificates/54739e880fa5452b8748ca3f21703414',
+    courseUrl:
+      'https://openlearninglibrary.mit.edu/courses/course-v1:MITx+15.481x+1T2021/about',
+    institution_logo: '/institutions/MIT_logo.png',
+    courseImage: '/courses/mit_adaptative.png',
+    institutionUrl: 'https://www.mit.edu/',
+    type: 'certificate',
+    hours: 80,
+    description:
+      'Advanced financial market analysis and behavioral economics. Transformed understanding of financial markets driven by human emotions (fear, euphoria, uncertainty) creating correlations that, when understood, can generate significant returns. Applied knowledge achieved +200% returns in the first year as an eToro investor.',
+  },
+  {
+    id: 'imf-financial',
+    title: 'Financial Market Analysis',
+    institution: 'International Monetary Fund',
+    date: 'February 2021',
+    url: 'https://courses.edx.org/certificates/cfea34bb73584fdc84658718a7ef81dd',
+    courseUrl:
+      'https://www.edx.org/learn/finance/the-international-monetary-fund-financial-market-analysis',
+    institution_logo: '/institutions/imf_logo.png',
+    courseImage: '/courses/imf_financial.png',
+    institutionUrl: 'https://www.imf.org/',
+    type: 'certificate',
+    hours: 50,
+    description:
+      'Executive program from the International Monetary Fund focused on macroeconomic policy, sovereign debt management, and global financial stability. Covered fiscal policy frameworks, monetary policy design, and crisis response strategies that inform cross-border investment decisions.',
+  },
+  {
+    id: 'nyif-capital',
+    title: 'Mercados de capitales y participantes claves',
+    institution: 'New York Institute of Finance',
+    date: 'January 2021',
+    url: 'https://courses.edx.org/certificates/8b1b4c946ae445c4ad9d4e9ddb36dc76',
+    courseUrl:
+      'https://www.edx.org/learn/economics/new-york-institute-of-finance-mercados-de-capital-y-participantes-claves',
+    institution_logo: '/institutions/NYIF_Logo.png',
+    courseImage: '/courses/nyif_capital.png',
+    institutionUrl: 'https://www.nyif.com/',
+    type: 'certificate',
+    hours: 40,
+    description:
+      'Private equity and venture finance certificate from the New York Institute of Finance. Deep dive into valuation models, deal structuring, limited partner reporting, and post-investment value creation with practical case studies.',
+  },
+  {
+    id: 'udemy-software-architect',
+    title: 'The Complete Guide to Becoming a Software Architect',
+    institution: 'Udemy',
+    date: 'April 2023',
+    url: 'https://www.udemy.com/certificate/UC-2571b984-bf4b-457b-8aa5-6ccab63c627d/',
+    courseUrl:
+      'https://www.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/',
+    institution_logo: '/institutions/udemy_logo.png',
+    courseImage: '/courses/udemy_architect.png',
+    institutionUrl: 'https://www.udemy.com/',
+    type: 'certificate',
+    hours: 25,
+    description:
+      'Comprehensive guide to software architecture principles, design patterns, and best practices for building scalable applications. Covered system design, microservices, cloud architecture, and technical leadership.',
+  },
+  {
+    id: 'udemy-nestjs',
+    title: 'NestJS Zero to Hero - Modern TypeScript Back-end Development',
+    institution: 'Udemy',
+    date: 'March 2023',
+    url: 'https://www.udemy.com/certificate/UC-a5652f86-458b-4560-9235-887aab8d4340/',
+    courseUrl: 'https://www.udemy.com/course/nestjs-zero-to-hero/',
+    institution_logo: '/institutions/udemy_logo.png',
+    courseImage: '/courses/udemy_nestjs.png',
+    institutionUrl: 'https://www.udemy.com/',
+    type: 'certificate',
+    hours: 30,
+    description:
+      'Complete NestJS framework mastery for building scalable, maintainable backend applications with TypeScript. Covered dependency injection, modules, controllers, providers, middleware, authentication, and database integration.',
+  },
+  {
+    id: 'udemy-nextjs',
+    title: 'Next.js & React - The Complete Guide',
+    institution: 'Udemy',
+    date: 'February 2023',
+    url: 'https://www.udemy.com/certificate/UC-a2bcb401-4c91-4e7b-9dd6-96d93fd0b1df/',
+    courseUrl: 'https://www.udemy.com/course/nextjs-react-the-complete-guide/',
+    institution_logo: '/institutions/udemy_logo.png',
+    courseImage: '/courses/udemy_next.png',
+    institutionUrl: 'https://www.udemy.com/',
+    type: 'certificate',
+    hours: 50,
+    description:
+      'Master Next.js and React for building modern, full-stack web applications with server-side rendering and routing. Comprehensive coverage of pages, API routes, data fetching, optimization, and deployment.',
+  },
+  {
+    id: 'cambridge-advanced-c1',
+    title: 'Advanced C1',
+    institution: 'Cambridge University Press & Assessment',
+    date: 'August 2022',
+    url: '/advanced/Advanced.pdf',
+    courseUrl: 'https://www.cam.ac.uk/',
+    institution_logo: '/institutions/cambridge_logo.png',
+    courseImage: '/advanced/advanced_c1.png',
+    institutionUrl: 'https://www.cam.ac.uk/',
+    type: 'language',
+    hours: 200,
+    description:
+      'Advanced level English language certification demonstrating high proficiency in English communication. Validates advanced speaking, writing, reading, and listening skills for professional and academic contexts.',
+  },
+];
