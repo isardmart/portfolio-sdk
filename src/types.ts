@@ -10,6 +10,8 @@ export interface PersonalInfo {
   role: string;
   location: string;
   email: string;
+  /** Public contact line — a placeholder like "by request", never a private number. */
+  phone: string;
   /** A line worth living by. */
   description: string;
 }
