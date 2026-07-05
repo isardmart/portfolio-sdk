@@ -4,7 +4,7 @@
 studies, projects, skills, services and hobbies — consumed by both:
 
 - [antonigg.dev](https://antonigg.dev) — the classic portfolio (Next.js)
-- [Forest Walk](https://forest-walk-black.vercel.app) — the creative portfolio (Three.js)
+- [Forest Walk](https://antonigg.xyz) — the creative portfolio (Three.js)
 
 Edit the data here, push, and both sites pick it up on their next deploy.
 Pure typed data, zero runtime dependencies, framework-agnostic.

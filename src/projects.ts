@@ -57,7 +57,7 @@ export const PROJECTS: ClientProject[] = [
   {
     id: 'forestwalk',
     name: 'Forest Walk',
-    url: 'https://forest-walk-black.vercel.app',
+    url: 'https://antonigg.xyz',
     technologies: [
       'Three.js',
       'TypeScript',
