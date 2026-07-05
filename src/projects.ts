@@ -127,4 +127,16 @@ export const PROJECTS: ClientProject[] = [
     description:
       'Platform to help CEOs make better decisions with better insights by integrating company data with Holded and Factorial, also managing personal finances.',
   },
+  {
+    id: 'filmix',
+    name: 'Filmix',
+    url: 'https://filmix.vercel.app',
+    technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'TMDB API'],
+    category: 'Streaming Catalog',
+    collaborationType: 'entirely done by me',
+    year: '2026',
+    projectType: 'side',
+    description:
+      'Netflix-style movie and series browser powered by the TMDB API. Trending, popular and per-genre rows, search and detail pages with similar titles, all fetched server-side so the API key never reaches the browser — no login, straight into the catalog.',
+  },
 ];
