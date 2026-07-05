@@ -135,7 +135,7 @@ export const PROJECTS: ClientProject[] = [
     category: 'Streaming Catalog',
     image: '/projects/filmix.png',
     collaborationType: 'entirely done by me',
-    year: '2026',
+    year: '2022',
     projectType: 'side',
     description:
       'Netflix-style movie and series browser powered by the TMDB API. Trending, popular and per-genre rows, search and detail pages with similar titles, all fetched server-side so the API key never reaches the browser — no login, straight into the catalog.',
