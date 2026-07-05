@@ -20,6 +20,7 @@ export {
   FAQ,
 } from './services.js';
 export { HOBBIES } from './hobbies.js';
+export { TRANSLATIONS, dataTranslations } from './translations/index.js';
 
 import type { PortfolioData } from './types.js';
 import { PERSONAL, SOCIAL } from './personal.js';

@@ -127,3 +127,26 @@ export interface PortfolioData {
   projects: ClientProject[];
   skills: Skill[];
 }
+
+/** Locales the portfolio ships in. English copy lives on the entries themselves. */
+export const LOCALES = ['en', 'ca', 'de', 'es', 'fr', 'it', 'pt'] as const;
+export type Locale = (typeof LOCALES)[number];
+
+/** Locales with authored translations — everything except English. */
+export type TranslatedLocale = Exclude<Locale, 'en'>;
+
+export interface ExperienceTranslation {
+  position: string;
+  description: string;
+}
+
+export interface DescriptionTranslation {
+  description: string;
+}
+
+/** Translations of the data entries for one locale, keyed by each entry's `id`. */
+export interface DataTranslations {
+  experience: Record<string, ExperienceTranslation>;
+  projects: Record<string, DescriptionTranslation>;
+  certificates: Record<string, DescriptionTranslation>;
+}
