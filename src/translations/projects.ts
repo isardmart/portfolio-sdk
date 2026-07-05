@@ -27,7 +27,7 @@ export const PROJECT_TRANSLATIONS: Record<
     },
     forestwalk: {
       description:
-        'Passeig — i conducció — en primera persona per un bosc procedural de sequoies gegants banyat pel sol. Un portfolio creatiu en si mateix: un 4×4 i una moto de trail conduïbles, un llac on nedar, un laberint de muntanya, fauna i una papallona companya, tot generat al navegador amb Three.js. Sense assets ni pantalla de càrrega.',
+        'El meu portfolio creatiu: un passeig — i conducció — en primera persona per un bosc procedural de sequoies gegants banyat pel sol. Un 4×4 i una moto de trail conduïbles, un llac on nedar, un laberint de muntanya, fauna i una papallona companya, tot generat al navegador amb Three.js. Sense assets ni pantalla de càrrega.',
     },
     paubarcelo: {
       description: 'Lloc web personal amb disseny modern i disseny responsiu.',
@@ -64,7 +64,7 @@ export const PROJECT_TRANSLATIONS: Record<
     },
     forestwalk: {
       description:
-        'First-Person-Spaziergang — und Fahrt — durch einen prozeduralen, sonnendurchfluteten Wald aus Riesenmammutbäumen. Ein kreatives Portfolio für sich: fahrbarer 4×4 und Trail-Motorrad, ein schwimmbarer See, ein Berglabyrinth, Wildtiere und ein Schmetterlingsbegleiter, alles im Browser mit Three.js generiert. Keine Assets, kein Ladebildschirm.',
+        'Mein kreatives Portfolio: ein First-Person-Spaziergang — und eine Fahrt — durch einen prozeduralen, sonnendurchfluteten Wald aus Riesenmammutbäumen. Fahrbarer 4×4 und Trail-Motorrad, ein schwimmbarer See, ein Berglabyrinth, Wildtiere und ein Schmetterlingsbegleiter, alles im Browser mit Three.js generiert. Keine Assets, kein Ladebildschirm.',
     },
     paubarcelo: {
       description: 'Persönliche Website mit modernem Design und responsivem Layout.',
@@ -101,7 +101,7 @@ export const PROJECT_TRANSLATIONS: Record<
     },
     forestwalk: {
       description:
-        'Paseo — y conducción — en primera persona por un bosque procedural de secuoyas gigantes bañado por el sol. Un portfolio creativo en sí mismo: un 4×4 y una moto de trail conducibles, un lago donde nadar, un laberinto de montaña, fauna y una mariposa compañera, todo generado en el navegador con Three.js. Sin assets ni pantalla de carga.',
+        'Mi portfolio creativo: un paseo — y conducción — en primera persona por un bosque procedural de secuoyas gigantes bañado por el sol. Un 4×4 y una moto de trail conducibles, un lago donde nadar, un laberinto de montaña, fauna y una mariposa compañera, todo generado en el navegador con Three.js. Sin assets ni pantalla de carga.',
     },
     paubarcelo: {
       description: 'Página web personal con diseño moderno y diseño responsivo.',
@@ -138,7 +138,7 @@ export const PROJECT_TRANSLATIONS: Record<
     },
     forestwalk: {
       description:
-        'Promenade — et conduite — à la première personne dans une forêt procédurale ensoleillée de séquoias géants. Un portfolio créatif en soi : un 4×4 et une moto trail conduisibles, un lac où nager, un labyrinthe de montagne, de la faune et un papillon compagnon, le tout généré dans le navigateur avec Three.js. Sans assets ni écran de chargement.',
+        'Mon portfolio créatif : une promenade — et une conduite — à la première personne dans une forêt procédurale ensoleillée de séquoias géants. Un 4×4 et une moto trail conduisibles, un lac où nager, un labyrinthe de montagne, de la faune et un papillon compagnon, le tout généré dans le navigateur avec Three.js. Sans assets ni écran de chargement.',
     },
     paubarcelo: {
       description: 'Site web personnel avec design moderne et mise en page responsive.',
@@ -175,7 +175,7 @@ export const PROJECT_TRANSLATIONS: Record<
     },
     forestwalk: {
       description:
-        'Passeggiata — e guida — in prima persona in una foresta procedurale di sequoie giganti baciata dal sole. Un portfolio creativo in sé: un 4×4 e una moto da trail guidabili, un lago in cui nuotare, un labirinto di montagna, fauna e una farfalla compagna, tutto generato nel browser con Three.js. Nessun asset, nessuna schermata di caricamento.',
+        'Il mio portfolio creativo: una passeggiata — e una guida — in prima persona in una foresta procedurale di sequoie giganti baciata dal sole. Un 4×4 e una moto da trail guidabili, un lago in cui nuotare, un labirinto di montagna, fauna e una farfalla compagna, tutto generato nel browser con Three.js. Nessun asset, nessuna schermata di caricamento.',
     },
     paubarcelo: {
       description: 'Sito web personale con design moderno e layout responsive.',
@@ -212,7 +212,7 @@ export const PROJECT_TRANSLATIONS: Record<
     },
     forestwalk: {
       description:
-        'Passeio — e condução — em primeira pessoa por uma floresta procedural de sequoias gigantes banhada pelo sol. Um portfólio criativo em si: um 4×4 e uma mota de trail conduzíveis, um lago onde nadar, um labirinto de montanha, vida selvagem e uma borboleta companheira, tudo gerado no browser com Three.js. Sem assets nem ecrã de carregamento.',
+        'O meu portfólio criativo: um passeio — e condução — em primeira pessoa por uma floresta procedural de sequoias gigantes banhada pelo sol. Um 4×4 e uma mota de trail conduzíveis, um lago onde nadar, um labirinto de montanha, vida selvagem e uma borboleta companheira, tudo gerado no browser com Three.js. Sem assets nem ecrã de carregamento.',
     },
     paubarcelo: {
       description: 'Site web pessoal com design moderno e layout responsivo.',

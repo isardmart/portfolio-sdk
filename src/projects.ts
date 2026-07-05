@@ -56,7 +56,7 @@ export const PROJECTS: ClientProject[] = [
   },
   {
     id: 'forestwalk',
-    name: 'Forest Walk',
+    name: 'Creative Portfolio',
     url: 'https://antonigg.xyz',
     technologies: [
       'Three.js',
@@ -66,13 +66,13 @@ export const PROJECTS: ClientProject[] = [
       'Procedural Generation',
       '3D Web',
     ],
-    category: 'Interactive 3D Demo',
-    image: '/projects/forest-walk.png',
+    category: 'Interactive 3D Portfolio',
+    image: '/projects/creative-portfolio.png',
     collaborationType: 'entirely done by me',
     year: '2026',
     projectType: 'side',
     description:
-      'First-person walk — and drive — through a procedural sunlit forest of giant sequoias. A creative portfolio in itself: drivable 4×4 and trail bike, a swimmable lake, a mountain labyrinth, wildlife and a butterfly companion, all generated in the browser with Three.js. No assets, no loading screen.',
+      'My creative portfolio: a first-person walk — and drive — through a procedural sunlit forest of giant sequoias. A drivable 4×4 and trail bike, a swimmable lake, a mountain labyrinth, wildlife and a butterfly companion, all generated in the browser with Three.js. No assets, no loading screen.',
   },
   {
     id: 'paubarcelo',
@@ -133,6 +133,7 @@ export const PROJECTS: ClientProject[] = [
     url: 'https://filmix.vercel.app',
     technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'TMDB API'],
     category: 'Streaming Catalog',
+    image: '/projects/filmix.png',
     collaborationType: 'entirely done by me',
     year: '2026',
     projectType: 'side',
