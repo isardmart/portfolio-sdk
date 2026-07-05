@@ -1,0 +1,37 @@
+name: Release tag
+
+# Every push to main: build the SDK, then create the v<version> tag from
+# package.json if it doesn't exist yet. Consumers pin these tags — a version
+# bump can never land on main without its tag again.
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build
+        run: npm install && npm run build
+
+      - name: Tag v<version> if missing
+        run: |
+          TAG="v$(node -p "require('./package.json').version")"
+          if [ -n "$(git ls-remote --tags origin "refs/tags/$TAG")" ]; then
+            echo "$TAG already exists — nothing to do"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git tag "$TAG"
+            git push origin "$TAG"
+            echo "created $TAG"
+          fi
