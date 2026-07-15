@@ -20,7 +20,7 @@ export const EXPERIENCE: WorkExperience[] = [
       'Non-custodial Wallets',
     ],
     description:
-      'Full-stack engineer at Openfort, a Wallet-as-a-Service (WaaS) platform that lets developers launch crypto projects in minutes. Building SDKs for Web (React, JavaScript), mobile (React Native), and backends (Node.js); contributing to Openfort Kit (open-source React WalletKit). Branded, cross-app, and invisible non-custodial wallets; EIP standards (e.g. 4337); Wagmi, Viem, Ethers; Ethereum and Solana. Platform processes 10M+ transactions for 50+ customers (e.g. Beam, Kroma, DOS Chain).',
+      'Full-stack engineer at Openfort, a Wallet-as-a-Service (WaaS) platform that lets developers launch crypto projects in minutes. Building SDKs for Web (React, JavaScript), mobile (React Native), and backends (Node.js). Branded, cross-app, and invisible non-custodial wallets; EIP standards (e.g. 4337); Wagmi, Viem, Ethers; Ethereum and Solana. Platform processes 10M+ transactions for 50+ customers (e.g. Beam, Kroma, DOS Chain).',
   },
   {
     id: 'freelance',
