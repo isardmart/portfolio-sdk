@@ -9,6 +9,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
   Record<string, ExperienceTranslation>
 > = {
   ca: {
+    salescaling: {
+      position: 'Responsable de GTM',
+      description:
+        "Lidero l'estratègia go-to-market a Salescaling, una plataforma d'IA que ajuda els equips de vendes a vendre de manera més eficient: transcripció automàtica de trucades, automatització del CRM, priorització de leads amb senyals de compra i agents SDR autònoms amb IA. Defineixo l'estratègia de GTM en vendes, màrqueting i creixement, construint el pipeline i el motor d'ingressos d'un producte en què confien més de 500 equips de vendes.",
+    },
     openfort: {
       position: 'Enginyer Full Stack',
       description:
@@ -36,6 +41,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   de: {
+    salescaling: {
+      position: 'Leiter Go-to-Market (GTM)',
+      description:
+        'Leitung des Go-to-Market bei Salescaling, einer KI-Plattform, die Vertriebsteams hilft, effizienter zu verkaufen: automatische Anruftranskription, CRM-Automatisierung, Lead-Priorisierung anhand von Kaufsignalen und autonome KI-SDR-Agenten. Verantwortung für die GTM-Strategie über Vertrieb, Marketing und Wachstum hinweg sowie Aufbau der Pipeline und des Umsatzmotors für ein Produkt, dem über 500 Vertriebsteams vertrauen.',
+    },
     openfort: {
       position: 'Full Stack Ingenieur',
       description:
@@ -63,6 +73,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   es: {
+    salescaling: {
+      position: 'Responsable de GTM',
+      description:
+        'Lidero la estrategia go-to-market en Salescaling, una plataforma de IA que ayuda a los equipos de ventas a vender de forma más eficiente: transcripción automática de llamadas, automatización del CRM, priorización de leads con señales de compra y agentes SDR autónomos con IA. Defino la estrategia de GTM en ventas, marketing y crecimiento, construyendo el pipeline y el motor de ingresos de un producto en el que confían más de 500 equipos de ventas.',
+    },
     openfort: {
       position: 'Ingeniero Full Stack',
       description:
@@ -90,6 +105,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   fr: {
+    salescaling: {
+      position: 'Responsable Go-to-Market (GTM)',
+      description:
+        "Je dirige la stratégie go-to-market chez Salescaling, une plateforme d'IA qui aide les équipes commerciales à vendre plus efficacement : transcription automatique des appels, automatisation du CRM, priorisation des leads selon les signaux d'achat et agents SDR autonomes basés sur l'IA. Je définis la stratégie GTM à travers les ventes, le marketing et la croissance, en construisant le pipeline et le moteur de revenus d'un produit auquel plus de 500 équipes commerciales font confiance.",
+    },
     openfort: {
       position: 'Ingénieur Full Stack',
       description:
@@ -117,6 +137,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   it: {
+    salescaling: {
+      position: 'Responsabile Go-to-Market (GTM)',
+      description:
+        "Guido la strategia go-to-market in Salescaling, una piattaforma di IA che aiuta i team di vendita a vendere in modo più efficiente: trascrizione automatica delle chiamate, automazione del CRM, prioritizzazione dei lead in base ai segnali d'acquisto e agenti SDR autonomi basati sull'IA. Definisco la strategia GTM tra vendite, marketing e crescita, costruendo la pipeline e il motore di ricavi di un prodotto di cui si fidano oltre 500 team di vendita.",
+    },
     openfort: {
       position: 'Ingegnere Full Stack',
       description:
@@ -144,6 +169,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   pt: {
+    salescaling: {
+      position: 'Responsável de GTM',
+      description:
+        'Lidero a estratégia go-to-market na Salescaling, uma plataforma de IA que ajuda as equipas de vendas a vender de forma mais eficiente: transcrição automática de chamadas, automatização do CRM, priorização de leads com sinais de compra e agentes SDR autónomos com IA. Defino a estratégia de GTM em vendas, marketing e crescimento, construindo o pipeline e o motor de receitas de um produto em que confiam mais de 500 equipas de vendas.',
+    },
     openfort: {
       position: 'Engenheiro Full Stack',
       description:

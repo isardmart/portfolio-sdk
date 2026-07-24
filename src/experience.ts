@@ -3,13 +3,33 @@ import type { WorkExperience } from './types.js';
 /** Work history, newest first. Descriptions are the site's full English copy. */
 export const EXPERIENCE: WorkExperience[] = [
   {
+    id: 'salescaling',
+    company: 'Salescaling',
+    position: 'Head of GTM',
+    url: 'https://salescaling.com/',
+    startDate: 'Jul 2026',
+    endDate: '',
+    current: true,
+    technologies: [
+      'Go-to-Market',
+      'Sales Strategy',
+      'Growth',
+      'Demand Generation',
+      'Revenue Operations',
+      'AI SaaS',
+      'CRM',
+    ],
+    description:
+      'Leading go-to-market at Salescaling, an AI platform that helps sales teams sell more efficiently — automatic call transcription, CRM automation, buying-signal lead prioritization, and autonomous AI SDR agents. Own GTM strategy across sales, marketing, and growth, building the pipeline and revenue engine for a product trusted by 500+ sales teams.',
+  },
+  {
     id: 'openfort',
     company: 'Openfort',
     position: 'Full Stack Engineer',
     url: 'https://www.openfort.io/',
     startDate: 'Jan 2026',
-    endDate: '',
-    current: true,
+    endDate: 'Jul 2026',
+    current: false,
     technologies: [
       'React',
       'React Native',
