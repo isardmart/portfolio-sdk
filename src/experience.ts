@@ -23,9 +23,9 @@ export const EXPERIENCE: WorkExperience[] = [
       'Full-stack engineer at Openfort, a Wallet-as-a-Service (WaaS) platform that lets developers launch crypto projects in minutes. Building SDKs for Web (React, JavaScript), mobile (React Native), and backends (Node.js). Branded, cross-app, and invisible non-custodial wallets; EIP standards (e.g. 4337); Wagmi, Viem, Ethers; Ethereum and Solana. Platform processes 10M+ transactions for 50+ customers (e.g. Beam, Kroma, DOS Chain).',
   },
   {
-    id: 'freelance',
+    id: 'exe-global-forwarders',
     company: 'ExE Global Forwarders',
-    position: 'Independent Full Stack Developer',
+    position: 'Chief Technology Officer',
     url: 'https://antonigg.dev/',
     startDate: 'Apr 2024',
     endDate: 'Jan 2026',

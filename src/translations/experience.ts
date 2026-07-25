@@ -14,8 +14,8 @@ export const EXPERIENCE_TRANSLATIONS: Record<
       description:
         "Enginyer full-stack a Openfort, plataforma Wallet-as-a-Service (WaaS) que permet llançar projectes crypto en minuts. Desenvolupament d'SDKs per a Web (React, JavaScript), mòbil (React Native) i backends (Node.js). Carteres no custodiales branded, cross-app i invisibles; estàndards EIP (ex. 4337); Wagmi, Viem, Ethers; Ethereum i Solana. La plataforma processa més de 10M de transaccions per a més de 50 clients (ex. Beam, Kroma, DOS Chain).",
     },
-    freelance: {
-      position: 'Desenvolupador Full Stack Independent',
+    'exe-global-forwarders': {
+      position: 'Chief Technology Officer',
       description:
         "Vaig definir l'estratègia tècnica i vaig lliurar solucions digitals de punta a punta per a clients de logística, des de l'arquitectura fins al desplegament en producció.",
     },
@@ -41,8 +41,8 @@ export const EXPERIENCE_TRANSLATIONS: Record<
       description:
         'Full-Stack-Ingenieur bei Openfort, einer Wallet-as-a-Service (WaaS)-Plattform, mit der Entwickler in Minuten Krypto-Projekte starten können. Entwicklung von SDKs für Web (React, JavaScript), Mobile (React Native) und Backends (Node.js). Branded-, Cross-App- und unsichtbare Non-Custodial-Wallets; EIP-Standards (z. B. 4337); Wagmi, Viem, Ethers; Ethereum und Solana. Die Plattform verarbeitet über 10M Transaktionen für über 50 Kunden (z. B. Beam, Kroma, DOS Chain).',
     },
-    freelance: {
-      position: 'Unabhängiger Full Stack Entwickler',
+    'exe-global-forwarders': {
+      position: 'Chief Technology Officer',
       description:
         'Technische Strategie definiert und End-to-End-Digitallösungen für Logistikkunden geliefert, von der Architektur bis zum Produktions-Deployment.',
     },
@@ -68,8 +68,8 @@ export const EXPERIENCE_TRANSLATIONS: Record<
       description:
         'Ingeniero full-stack en Openfort, plataforma Wallet-as-a-Service (WaaS) que permite lanzar proyectos crypto en minutos. Desarrollo de SDKs para Web (React, JavaScript), móvil (React Native) y backends (Node.js). Wallets no custodiadas branded, cross-app e invisibles; estándares EIP (ej. 4337); Wagmi, Viem, Ethers; Ethereum y Solana. La plataforma procesa más de 10M de transacciones para más de 50 clientes (ej. Beam, Kroma, DOS Chain).',
     },
-    freelance: {
-      position: 'Desarrollador Full Stack Independiente',
+    'exe-global-forwarders': {
+      position: 'Chief Technology Officer',
       description:
         'Definí la estrategia técnica y entregué soluciones digitales de extremo a extremo para clientes de logística, desde la arquitectura hasta el despliegue en producción.',
     },
@@ -95,8 +95,8 @@ export const EXPERIENCE_TRANSLATIONS: Record<
       description:
         "Ingénieur full-stack chez Openfort, plateforme Wallet-as-a-Service (WaaS) permettant de lancer des projets crypto en quelques minutes. Développement d'SDKs pour Web (React, JavaScript), mobile (React Native) et backends (Node.js). Portefeuilles non-custodial branded, cross-app et invisibles; standards EIP (ex. 4337); Wagmi, Viem, Ethers; Ethereum et Solana. La plateforme traite plus de 10M de transactions pour plus de 50 clients (ex. Beam, Kroma, DOS Chain).",
     },
-    freelance: {
-      position: 'Développeur Full Stack Indépendant',
+    'exe-global-forwarders': {
+      position: 'Chief Technology Officer',
       description:
         "Défini la stratégie technique et livré des solutions numériques de bout en bout pour des clients logistiques, de l'architecture au déploiement en production.",
     },
@@ -122,8 +122,8 @@ export const EXPERIENCE_TRANSLATIONS: Record<
       description:
         'Ingegnere full-stack in Openfort, piattaforma Wallet-as-a-Service (WaaS) che permette di lanciare progetti crypto in minuti. Sviluppo di SDK per Web (React, JavaScript), mobile (React Native) e backend (Node.js). Portafogli non-custodial branded, cross-app e invisibili; standard EIP (es. 4337); Wagmi, Viem, Ethers; Ethereum e Solana. La piattaforma processa oltre 10M di transazioni per oltre 50 clienti (es. Beam, Kroma, DOS Chain).',
     },
-    freelance: {
-      position: 'Sviluppatore Full Stack Indipendente',
+    'exe-global-forwarders': {
+      position: 'Chief Technology Officer',
       description:
         "Definita la strategia tecnica e consegnate soluzioni digitali end-to-end per clienti della logistica, dall'architettura al deployment in produzione.",
     },
@@ -149,8 +149,8 @@ export const EXPERIENCE_TRANSLATIONS: Record<
       description:
         'Engenheiro full-stack na Openfort, plataforma Wallet-as-a-Service (WaaS) que permite lançar projetos crypto em minutos. Desenvolvimento de SDKs para Web (React, JavaScript), móvel (React Native) e backends (Node.js). Carteiras não custodiais branded, cross-app e invisíveis; padrões EIP (ex. 4337); Wagmi, Viem, Ethers; Ethereum e Solana. A plataforma processa mais de 10M de transações para mais de 50 clientes (ex. Beam, Kroma, DOS Chain).',
     },
-    freelance: {
-      position: 'Desenvolvedor Full Stack Independente',
+    'exe-global-forwarders': {
+      position: 'Chief Technology Officer',
       description:
         'Defini a estratégia técnica e entreguei soluções digitais de ponta a ponta para clientes de logística, da arquitetura ao deploy em produção.',
     },
