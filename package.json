@@ -1,6 +1,6 @@
 {
   "name": "@antonigg/portfolio-sdk",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Single source of truth for Antoni Galí's professional data — experience, projects, studies, skills, services — consumed by antonigg.dev and Forest Walk.",
   "type": "module",
   "main": "./dist/index.js",
