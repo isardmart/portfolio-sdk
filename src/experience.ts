@@ -24,7 +24,7 @@ export const EXPERIENCE: WorkExperience[] = [
   },
   {
     id: 'freelance',
-    company: 'Freelance',
+    company: 'ExE Global Forwarders',
     position: 'Independent Full Stack Developer',
     url: 'https://antonigg.dev/',
     startDate: 'Apr 2024',
