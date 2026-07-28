@@ -8,8 +8,8 @@ export const EXPERIENCE: WorkExperience[] = [
     position: 'Full Stack Engineer',
     url: 'https://www.openfort.io/',
     startDate: 'Jan 2026',
-    endDate: '',
-    current: true,
+    endDate: 'Jul 2026',
+    current: false,
     technologies: [
       'React',
       'React Native',
@@ -20,7 +20,7 @@ export const EXPERIENCE: WorkExperience[] = [
       'Non-custodial Wallets',
     ],
     description:
-      'Full-stack engineer at Openfort, a Wallet-as-a-Service (WaaS) platform that lets developers launch crypto projects in minutes. Building SDKs for Web (React, JavaScript), mobile (React Native), and backends (Node.js). Branded, cross-app, and invisible non-custodial wallets; EIP standards (e.g. 4337); Wagmi, Viem, Ethers; Ethereum and Solana. Platform processes 10M+ transactions for 50+ customers (e.g. Beam, Kroma, DOS Chain).',
+      'Full-stack engineer at Openfort, a Wallet-as-a-Service (WaaS) platform that lets developers launch crypto projects in minutes. Built SDKs for Web (React, JavaScript), mobile (React Native), and backends (Node.js). Branded, cross-app, and invisible non-custodial wallets; EIP standards (e.g. 4337); Wagmi, Viem, Ethers; Ethereum and Solana. Platform processes 10M+ transactions for 50+ customers (e.g. Beam, Kroma, DOS Chain).',
   },
   {
     id: 'exe-global-forwarders',
