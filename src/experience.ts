@@ -5,7 +5,7 @@ export const EXPERIENCE: WorkExperience[] = [
   {
     id: 'openfort',
     company: 'Openfort',
-    position: 'Full Stack Engineer',
+    position: 'Software Engineer',
     url: 'https://www.openfort.io/',
     startDate: 'Jan 2026',
     endDate: 'Jul 2026',
