@@ -54,7 +54,7 @@ export const EXPERIENCE: WorkExperience[] = [
     company: 'BonÀrea IT',
     position: 'Full Stack Developer',
     url: 'https://it.bonarea.com/',
-    startDate: 'Jun 2023',
+    startDate: 'Aug 2023',
     endDate: 'Apr 2024',
     current: false,
     technologies: [
@@ -77,8 +77,8 @@ export const EXPERIENCE: WorkExperience[] = [
     company: 'Software Experts',
     position: 'Full Stack Developer',
     url: 'https://softwarexperts.org/',
-    startDate: 'Dec 2022',
-    endDate: 'May 2023',
+    startDate: 'Nov 2022',
+    endDate: 'Aug 2023',
     current: false,
     technologies: [
       'React',
@@ -101,8 +101,8 @@ export const EXPERIENCE: WorkExperience[] = [
     company: 'Citibeats',
     position: 'Data Quality Analyst - Product Team (Internship)',
     url: 'https://www.linkedin.com/company/citibeats/posts/?feedView=all',
-    startDate: 'Oct 2022',
-    endDate: 'Dec 2022',
+    startDate: 'Jul 2022',
+    endDate: 'Oct 2022',
     current: false,
     technologies: [
       'AI/ML Testing',
