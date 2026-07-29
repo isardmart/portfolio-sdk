@@ -3,6 +3,25 @@ import type { WorkExperience } from './types.js';
 /** Work history, newest first. Descriptions are the site's full English copy. */
 export const EXPERIENCE: WorkExperience[] = [
   {
+    id: 'salescaling',
+    company: 'Salescaling',
+    position: 'GTM & Operations',
+    url: 'https://salescaling.com/',
+    startDate: 'Jul 2026',
+    endDate: '',
+    current: true,
+    technologies: [
+      'Go-to-Market Strategy',
+      'Sales Operations',
+      'Growth',
+      'CRM',
+      'Automation',
+      'AI Agents',
+    ],
+    description:
+      'In charge of go-to-market (GTM) strategy and operations at Salescaling, an AI-powered sales platform with agents that synthesize sales conversations, automate outreach, and qualify meetings. Just started — early focus on positioning, growth, and the operations that connect product, sales, and customers.',
+  },
+  {
     id: 'openfort',
     company: 'Openfort',
     position: 'Software Engineer',

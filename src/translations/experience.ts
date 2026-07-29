@@ -9,6 +9,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
   Record<string, ExperienceTranslation>
 > = {
   ca: {
+    salescaling: {
+      position: 'GTM i Operacions',
+      description:
+        "Responsable de l'estratègia go-to-market (GTM) i les operacions a Salescaling, una plataforma de vendes potenciada per IA amb agents que sintetitzen converses de venda, automatitzen l'outreach i qualifiquen reunions. Acabat de començar — focus inicial en posicionament, creixement i les operacions que connecten producte, vendes i clients.",
+    },
     openfort: {
       position: 'Enginyer de Programari',
       description:
@@ -36,6 +41,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   de: {
+    salescaling: {
+      position: 'GTM & Operations',
+      description:
+        'Verantwortlich für Go-to-Market-Strategie (GTM) und Operations bei Salescaling, einer KI-gestützten Vertriebsplattform mit Agenten, die Verkaufsgespräche synthetisieren, Outreach automatisieren und Meetings qualifizieren. Gerade gestartet — anfänglicher Fokus auf Positionierung, Wachstum und die Abläufe, die Produkt, Vertrieb und Kunden verbinden.',
+    },
     openfort: {
       position: 'Software-Ingenieur',
       description:
@@ -63,6 +73,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   es: {
+    salescaling: {
+      position: 'GTM y Operaciones',
+      description:
+        'Responsable de la estrategia go-to-market (GTM) y las operaciones en Salescaling, una plataforma de ventas potenciada por IA con agentes que sintetizan conversaciones de venta, automatizan el outreach y califican reuniones. Recién empezado — foco inicial en posicionamiento, crecimiento y las operaciones que conectan producto, ventas y clientes.',
+    },
     openfort: {
       position: 'Ingeniero de Software',
       description:
@@ -90,6 +105,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   fr: {
+    salescaling: {
+      position: 'GTM & Opérations',
+      description:
+        "Responsable de la stratégie go-to-market (GTM) et des opérations chez Salescaling, une plateforme de vente propulsée par l'IA avec des agents qui synthétisent les conversations commerciales, automatisent la prospection et qualifient les rendez-vous. Tout juste commencé — focus initial sur le positionnement, la croissance et les opérations qui relient produit, ventes et clients.",
+    },
     openfort: {
       position: 'Ingénieur Logiciel',
       description:
@@ -117,6 +137,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   it: {
+    salescaling: {
+      position: 'GTM & Operations',
+      description:
+        "Responsabile della strategia go-to-market (GTM) e delle operations in Salescaling, una piattaforma di vendita potenziata dall'IA con agenti che sintetizzano le conversazioni di vendita, automatizzano l'outreach e qualificano gli incontri. Appena iniziato — focus iniziale su posizionamento, crescita e le operations che collegano prodotto, vendite e clienti.",
+    },
     openfort: {
       position: 'Ingegnere Software',
       description:
@@ -144,6 +169,11 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   pt: {
+    salescaling: {
+      position: 'GTM & Operações',
+      description:
+        'Responsável pela estratégia go-to-market (GTM) e pelas operações na Salescaling, uma plataforma de vendas potenciada por IA com agentes que sintetizam conversas de venda, automatizam o outreach e qualificam reuniões. Recém-começado — foco inicial em posicionamento, crescimento e nas operações que ligam produto, vendas e clientes.',
+    },
     openfort: {
       position: 'Engenheiro de Software',
       description:
