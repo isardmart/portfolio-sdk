@@ -3,13 +3,32 @@ import type { WorkExperience } from './types.js';
 /** Work history, newest first. Descriptions are the site's full English copy. */
 export const EXPERIENCE: WorkExperience[] = [
   {
-    id: 'openfort',
-    company: 'Openfort',
-    position: 'Full Stack Engineer',
-    url: 'https://www.openfort.io/',
-    startDate: 'Jan 2026',
+    id: 'salescaling',
+    company: 'Salescaling',
+    position: 'GTM & Operations',
+    url: 'https://salescaling.com/',
+    startDate: 'Jul 2026',
     endDate: '',
     current: true,
+    technologies: [
+      'Go-to-Market Strategy',
+      'Sales Operations',
+      'Growth',
+      'CRM',
+      'Automation',
+      'AI Agents',
+    ],
+    description:
+      'In charge of go-to-market (GTM) strategy and operations at Salescaling, an AI-powered sales platform with agents that synthesize sales conversations, automate outreach, and qualify meetings. Just started — early focus on positioning, growth, and the operations that connect product, sales, and customers.',
+  },
+  {
+    id: 'openfort',
+    company: 'Openfort',
+    position: 'Software Engineer',
+    url: 'https://www.openfort.io/',
+    startDate: 'Jan 2026',
+    endDate: 'Jul 2026',
+    current: false,
     technologies: [
       'React',
       'React Native',
@@ -20,7 +39,7 @@ export const EXPERIENCE: WorkExperience[] = [
       'Non-custodial Wallets',
     ],
     description:
-      'Full-stack engineer at Openfort, a Wallet-as-a-Service (WaaS) platform that lets developers launch crypto projects in minutes. Building SDKs for Web (React, JavaScript), mobile (React Native), and backends (Node.js). Branded, cross-app, and invisible non-custodial wallets; EIP standards (e.g. 4337); Wagmi, Viem, Ethers; Ethereum and Solana. Platform processes 10M+ transactions for 50+ customers (e.g. Beam, Kroma, DOS Chain).',
+      'Full-stack engineer at Openfort, a Wallet-as-a-Service (WaaS) platform that lets developers launch crypto projects in minutes. Built SDKs for Web (React, JavaScript), mobile (React Native), and backends (Node.js). Branded, cross-app, and invisible non-custodial wallets; EIP standards (e.g. 4337); Wagmi, Viem, Ethers; Ethereum and Solana. Platform processes 10M+ transactions for 50+ customers (e.g. Beam, Kroma, DOS Chain).',
   },
   {
     id: 'exe-global-forwarders',
@@ -54,7 +73,7 @@ export const EXPERIENCE: WorkExperience[] = [
     company: 'BonÀrea IT',
     position: 'Full Stack Developer',
     url: 'https://it.bonarea.com/',
-    startDate: 'Jun 2023',
+    startDate: 'Aug 2023',
     endDate: 'Apr 2024',
     current: false,
     technologies: [
@@ -77,8 +96,8 @@ export const EXPERIENCE: WorkExperience[] = [
     company: 'Software Experts',
     position: 'Full Stack Developer',
     url: 'https://softwarexperts.org/',
-    startDate: 'Dec 2022',
-    endDate: 'May 2023',
+    startDate: 'Nov 2022',
+    endDate: 'Aug 2023',
     current: false,
     technologies: [
       'React',
@@ -101,8 +120,8 @@ export const EXPERIENCE: WorkExperience[] = [
     company: 'Citibeats',
     position: 'Data Quality Analyst - Product Team (Internship)',
     url: 'https://www.linkedin.com/company/citibeats/posts/?feedView=all',
-    startDate: 'Oct 2022',
-    endDate: 'Dec 2022',
+    startDate: 'Jul 2022',
+    endDate: 'Oct 2022',
     current: false,
     technologies: [
       'AI/ML Testing',

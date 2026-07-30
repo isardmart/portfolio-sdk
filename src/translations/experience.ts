@@ -9,8 +9,13 @@ export const EXPERIENCE_TRANSLATIONS: Record<
   Record<string, ExperienceTranslation>
 > = {
   ca: {
+    salescaling: {
+      position: 'GTM i Operacions',
+      description:
+        "Responsable de l'estratègia go-to-market (GTM) i les operacions a Salescaling, una plataforma de vendes potenciada per IA amb agents que sintetitzen converses de venda, automatitzen l'outreach i qualifiquen reunions. Acabat de començar — focus inicial en posicionament, creixement i les operacions que connecten producte, vendes i clients.",
+    },
     openfort: {
-      position: 'Enginyer Full Stack',
+      position: 'Enginyer de Programari',
       description:
         "Enginyer full-stack a Openfort, plataforma Wallet-as-a-Service (WaaS) que permet llançar projectes crypto en minuts. Desenvolupament d'SDKs per a Web (React, JavaScript), mòbil (React Native) i backends (Node.js). Carteres no custodiales branded, cross-app i invisibles; estàndards EIP (ex. 4337); Wagmi, Viem, Ethers; Ethereum i Solana. La plataforma processa més de 10M de transaccions per a més de 50 clients (ex. Beam, Kroma, DOS Chain).",
     },
@@ -36,8 +41,13 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   de: {
+    salescaling: {
+      position: 'GTM & Operations',
+      description:
+        'Verantwortlich für Go-to-Market-Strategie (GTM) und Operations bei Salescaling, einer KI-gestützten Vertriebsplattform mit Agenten, die Verkaufsgespräche synthetisieren, Outreach automatisieren und Meetings qualifizieren. Gerade gestartet — anfänglicher Fokus auf Positionierung, Wachstum und die Abläufe, die Produkt, Vertrieb und Kunden verbinden.',
+    },
     openfort: {
-      position: 'Full Stack Ingenieur',
+      position: 'Software-Ingenieur',
       description:
         'Full-Stack-Ingenieur bei Openfort, einer Wallet-as-a-Service (WaaS)-Plattform, mit der Entwickler in Minuten Krypto-Projekte starten können. Entwicklung von SDKs für Web (React, JavaScript), Mobile (React Native) und Backends (Node.js). Branded-, Cross-App- und unsichtbare Non-Custodial-Wallets; EIP-Standards (z. B. 4337); Wagmi, Viem, Ethers; Ethereum und Solana. Die Plattform verarbeitet über 10M Transaktionen für über 50 Kunden (z. B. Beam, Kroma, DOS Chain).',
     },
@@ -63,8 +73,13 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   es: {
+    salescaling: {
+      position: 'GTM y Operaciones',
+      description:
+        'Responsable de la estrategia go-to-market (GTM) y las operaciones en Salescaling, una plataforma de ventas potenciada por IA con agentes que sintetizan conversaciones de venta, automatizan el outreach y califican reuniones. Recién empezado — foco inicial en posicionamiento, crecimiento y las operaciones que conectan producto, ventas y clientes.',
+    },
     openfort: {
-      position: 'Ingeniero Full Stack',
+      position: 'Ingeniero de Software',
       description:
         'Ingeniero full-stack en Openfort, plataforma Wallet-as-a-Service (WaaS) que permite lanzar proyectos crypto en minutos. Desarrollo de SDKs para Web (React, JavaScript), móvil (React Native) y backends (Node.js). Wallets no custodiadas branded, cross-app e invisibles; estándares EIP (ej. 4337); Wagmi, Viem, Ethers; Ethereum y Solana. La plataforma procesa más de 10M de transacciones para más de 50 clientes (ej. Beam, Kroma, DOS Chain).',
     },
@@ -90,8 +105,13 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   fr: {
+    salescaling: {
+      position: 'GTM & Opérations',
+      description:
+        "Responsable de la stratégie go-to-market (GTM) et des opérations chez Salescaling, une plateforme de vente propulsée par l'IA avec des agents qui synthétisent les conversations commerciales, automatisent la prospection et qualifient les rendez-vous. Tout juste commencé — focus initial sur le positionnement, la croissance et les opérations qui relient produit, ventes et clients.",
+    },
     openfort: {
-      position: 'Ingénieur Full Stack',
+      position: 'Ingénieur Logiciel',
       description:
         "Ingénieur full-stack chez Openfort, plateforme Wallet-as-a-Service (WaaS) permettant de lancer des projets crypto en quelques minutes. Développement d'SDKs pour Web (React, JavaScript), mobile (React Native) et backends (Node.js). Portefeuilles non-custodial branded, cross-app et invisibles; standards EIP (ex. 4337); Wagmi, Viem, Ethers; Ethereum et Solana. La plateforme traite plus de 10M de transactions pour plus de 50 clients (ex. Beam, Kroma, DOS Chain).",
     },
@@ -117,8 +137,13 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   it: {
+    salescaling: {
+      position: 'GTM & Operations',
+      description:
+        "Responsabile della strategia go-to-market (GTM) e delle operations in Salescaling, una piattaforma di vendita potenziata dall'IA con agenti che sintetizzano le conversazioni di vendita, automatizzano l'outreach e qualificano gli incontri. Appena iniziato — focus iniziale su posizionamento, crescita e le operations che collegano prodotto, vendite e clienti.",
+    },
     openfort: {
-      position: 'Ingegnere Full Stack',
+      position: 'Ingegnere Software',
       description:
         'Ingegnere full-stack in Openfort, piattaforma Wallet-as-a-Service (WaaS) che permette di lanciare progetti crypto in minuti. Sviluppo di SDK per Web (React, JavaScript), mobile (React Native) e backend (Node.js). Portafogli non-custodial branded, cross-app e invisibili; standard EIP (es. 4337); Wagmi, Viem, Ethers; Ethereum e Solana. La piattaforma processa oltre 10M di transazioni per oltre 50 clienti (es. Beam, Kroma, DOS Chain).',
     },
@@ -144,8 +169,13 @@ export const EXPERIENCE_TRANSLATIONS: Record<
     },
   },
   pt: {
+    salescaling: {
+      position: 'GTM & Operações',
+      description:
+        'Responsável pela estratégia go-to-market (GTM) e pelas operações na Salescaling, uma plataforma de vendas potenciada por IA com agentes que sintetizam conversas de venda, automatizam o outreach e qualificam reuniões. Recém-começado — foco inicial em posicionamento, crescimento e nas operações que ligam produto, vendas e clientes.',
+    },
     openfort: {
-      position: 'Engenheiro Full Stack',
+      position: 'Engenheiro de Software',
       description:
         'Engenheiro full-stack na Openfort, plataforma Wallet-as-a-Service (WaaS) que permite lançar projetos crypto em minutos. Desenvolvimento de SDKs para Web (React, JavaScript), móvel (React Native) e backends (Node.js). Carteiras não custodiais branded, cross-app e invisíveis; padrões EIP (ex. 4337); Wagmi, Viem, Ethers; Ethereum e Solana. A plataforma processa mais de 10M de transações para mais de 50 clientes (ex. Beam, Kroma, DOS Chain).',
     },
