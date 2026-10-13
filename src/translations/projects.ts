@@ -25,6 +25,10 @@ export const PROJECT_TRANSLATIONS: Record<
       description:
         'Plataforma de gestió logística i de càrrega amb capacitats de seguiment en temps real.',
     },
+    isardtrail: {
+      description:
+        'El meu camí de la primera marató de muntanya fins a l\'UTMB, fet web personal i quadern d\'entrenament. La part pública explica la història — el camí de fites, les curses, un món d\'aventura il·lustrat, el blog i els vídeos — i un panell privat registra activitats, punts i assoliments, importa d\'Strava i es pot gestionar des d\'un assistent d\'IA amb el seu propi servidor MCP. Les dades personals són privades per defecte.',
+    },
     forestwalk: {
       description:
         'El meu portfolio creatiu: un passeig — i conducció — en primera persona per un bosc procedural de sequoies gegants banyat pel sol. Un 4×4 i una moto de trail conduïbles, un llac on nedar, un laberint de muntanya, fauna i una papallona companya, tot generat al navegador amb Three.js. Sense assets ni pantalla de càrrega.',
@@ -61,6 +65,10 @@ export const PROJECT_TRANSLATIONS: Record<
     novocargo: {
       description:
         'Logistik- und Frachtmanagement-Plattform mit Echtzeit-Tracking-Funktionen.',
+    },
+    isardtrail: {
+      description:
+        'Mein Weg vom ersten Bergmarathon bis zum UTMB, als persönliche Website und Trainingstagebuch. Der öffentliche Teil erzählt die Geschichte — der Pfad der Meilensteine, Rennen, eine illustrierte Abenteuerwelt, Blog und Videos —, während ein privates Dashboard Aktivitäten, Punkte und Erfolge erfasst, aus Strava importiert und sich über einen eigenen MCP-Server von einem KI-Assistenten steuern lässt. Persönliche Daten sind standardmäßig privat.',
     },
     forestwalk: {
       description:
@@ -99,6 +107,10 @@ export const PROJECT_TRANSLATIONS: Record<
       description:
         'Página web de gestión logística y de carga con capacidades de seguimiento en tiempo real.',
     },
+    isardtrail: {
+      description:
+        'Mi camino desde mi primer maratón de montaña hasta el UTMB, hecho web personal y cuaderno de entrenamiento. La parte pública cuenta la historia — el camino de hitos, las carreras, un mundo de aventura ilustrado, el blog y los vídeos — y un panel privado registra actividades, puntos y logros, importa de Strava y se puede gestionar desde un asistente de IA con su propio servidor MCP. Los datos personales son privados por defecto.',
+    },
     forestwalk: {
       description:
         'Mi portfolio creativo: un paseo — y conducción — en primera persona por un bosque procedural de secuoyas gigantes bañado por el sol. Un 4×4 y una moto de trail conducibles, un lago donde nadar, un laberinto de montaña, fauna y una mariposa compañera, todo generado en el navegador con Three.js. Sin assets ni pantalla de carga.',
@@ -135,6 +147,10 @@ export const PROJECT_TRANSLATIONS: Record<
     novocargo: {
       description:
         'Plateforme de gestion logistique et de fret avec capacités de suivi en temps réel.',
+    },
+    isardtrail: {
+      description:
+        'Mon chemin de mon premier marathon de montagne jusqu\'à l\'UTMB, sous forme de site personnel et de carnet d\'entraînement. La partie publique raconte l\'histoire — le chemin des étapes, les courses, un monde d\'aventure illustré, le blog et les vidéos — tandis qu\'un tableau de bord privé enregistre activités, points et succès, importe depuis Strava et se pilote depuis un assistant IA grâce à son propre serveur MCP. Les données personnelles sont privées par défaut.',
     },
     forestwalk: {
       description:
@@ -173,6 +189,10 @@ export const PROJECT_TRANSLATIONS: Record<
       description:
         'Piattaforma di gestione logistica e cargo con capacità di tracciamento in tempo reale.',
     },
+    isardtrail: {
+      description:
+        'Il mio cammino dalla prima maratona di montagna fino all\'UTMB, come sito personale e diario di allenamento. La parte pubblica racconta la storia — il percorso delle tappe, le gare, un mondo d\'avventura illustrato, il blog e i video — mentre una dashboard privata registra attività, punti e traguardi, importa da Strava e si può gestire da un assistente IA tramite il proprio server MCP. I dati personali sono privati per impostazione predefinita.',
+    },
     forestwalk: {
       description:
         'Il mio portfolio creativo: una passeggiata — e una guida — in prima persona in una foresta procedurale di sequoie giganti baciata dal sole. Un 4×4 e una moto da trail guidabili, un lago in cui nuotare, un labirinto di montagna, fauna e una farfalla compagna, tutto generato nel browser con Three.js. Nessun asset, nessuna schermata di caricamento.',
@@ -209,6 +229,10 @@ export const PROJECT_TRANSLATIONS: Record<
     novocargo: {
       description:
         'Plataforma de gestão logística e de carga com capacidades de rastreamento em tempo real.',
+    },
+    isardtrail: {
+      description:
+        'O meu caminho da primeira maratona de montanha até ao UTMB, feito site pessoal e diário de treino. A parte pública conta a história — o caminho de metas, as corridas, um mundo de aventura ilustrado, o blog e os vídeos — e um painel privado regista atividades, pontos e conquistas, importa do Strava e pode ser gerido a partir de um assistente de IA com o seu próprio servidor MCP. Os dados pessoais são privados por defeito.',
     },
     forestwalk: {
       description:

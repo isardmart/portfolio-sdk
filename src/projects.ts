@@ -55,6 +55,26 @@ export const PROJECTS: ClientProject[] = [
       'Logistics and cargo management platform with real-time tracking capabilities.',
   },
   {
+    id: 'isardtrail',
+    name: 'Isard Trail',
+    url: 'https://www.isardtrail.com',
+    technologies: [
+      'Next.js',
+      'TypeScript',
+      'Supabase',
+      'Tailwind CSS',
+      'Strava API',
+      'MCP',
+    ],
+    category: 'Training Journal',
+    image: '/projects/isardtrail.png',
+    collaborationType: 'entirely done by me',
+    year: '2026',
+    projectType: 'side',
+    description:
+      'My road from my first mountain marathon to UTMB, built as a personal site and training journal. The public side tells the story — the path of milestones, races, an illustrated adventure world, blog and videos — while a private dashboard logs activities, points and achievements, imports from Strava, and can be run from an AI assistant through its own MCP server. Personal data stays private by default.',
+  },
+  {
     id: 'forestwalk',
     name: 'Creative Portfolio',
     url: 'https://antonigg.xyz',
